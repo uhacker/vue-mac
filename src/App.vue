@@ -1,4 +1,4 @@
-<template>
+cnpm<template>
   <div id="app">
     <el-container>
       <el-header>
